@@ -99,4 +99,4 @@ python run.py
 
 ## Maintainers
 
-1. Harnath Atamkuri (akvdkharnath@gmail.com)
+1. Harnath Atmakuri (akvdkharnath@gmail.com)
